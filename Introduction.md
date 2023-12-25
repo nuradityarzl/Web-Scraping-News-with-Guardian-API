@@ -1,1 +1,0 @@
-This project aims to collect news information related to President of Indonesia Joko Widodo from The Guardian website using the Guardian API. Through this script, news data is obtained, processed, and presented in the form of a DataFrame for easier further analysis.
